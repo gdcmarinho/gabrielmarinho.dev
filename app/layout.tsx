@@ -26,7 +26,9 @@ export default function RootLayout({ children }: RootLayoutProps) {
           <div className="max-w-2xl mx-auto py-10 px-4">
             <header>
               <div className="flex items-center justify-between">
-                <p>Gabriel Marinho</p>
+                <a href="/">
+                  <p>Gabriel Marinho</p>
+                </a>
                 <div className="flex row items-center">
                   <nav className="ml-auto text-sm font-medium space-x-6 mr-5">
                     <Link href="/">Home</Link>
