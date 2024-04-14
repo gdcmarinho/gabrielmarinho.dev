@@ -1,4 +1,4 @@
-# gabrielmarinho.dev
+# gdcmarinho.com
 
 ## Getting Started
 
@@ -17,8 +17,8 @@ You'll also need yarn or npm to manage dependencies and run scripts. This projec
 ### Installation
 First, clone the repository to your local machine:
 ```bash
-git clone git@github.com:gdcmarinho/gabrielmarinho.dev.git
-cd gabrielmarinho.dev
+git clone git@github.com:gdcmarinho/gdcmarinho.com.git
+cd gdcmarinho.com
 ```
 Then, install the project dependencies:
 ```bash
