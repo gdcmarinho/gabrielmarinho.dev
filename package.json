@@ -13,7 +13,7 @@
     "@tailwindcss/typography": "^0.5.12",
     "@types/node": "20.12.2",
     "@types/react": "18.2.75",
-    "@types/react-dom": "18.2.24",
+    "@types/react-dom": "18.2.25",
     "@vercel/analytics": "^1.0.0",
     "autoprefixer": "10.4.19",
     "contentlayer": "^0.3.2",
