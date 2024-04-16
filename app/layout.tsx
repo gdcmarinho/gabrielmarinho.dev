@@ -33,6 +33,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
                   <nav className="ml-auto text-sm font-medium space-x-6 mr-5">
                     <Link href="/">Home</Link>
                     <Link href="/about">About</Link>
+                    <Link href="/CV_GabrielMarinho.pdf">CV</Link>
                   </nav>
                   <ModeToggle />
                 </div>
